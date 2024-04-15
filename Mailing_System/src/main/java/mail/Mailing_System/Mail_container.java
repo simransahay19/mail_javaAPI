@@ -53,7 +53,7 @@ private static void sendMail() {
 		@Override
 		protected PasswordAuthentication  getPasswordAuthentication() {
 		
-		return new PasswordAuthentication("simran19.sahay19@gmail.com","nejg llzw vtkf fjrf");
+		return new PasswordAuthentication("simran19.sahay19@gmail.com","password");
 		}
 	});
 	s.setDebug(true);
